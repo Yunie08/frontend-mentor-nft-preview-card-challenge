@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](.\images\screenshots\screenshot.jpg)
+![Screenshot of my solution](.\images\screenshots\screenshot.jpg)
 
 
 ### Links
@@ -62,4 +62,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Yunie08](https://www.frontendmentor.io/profile/Yunie08)
