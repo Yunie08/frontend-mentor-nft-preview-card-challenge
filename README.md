@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://loving-jepsen-35cebb.netlify.app]
+- Solution URL: https://github.com/Yunie08/frontend-mentor-nft-preview-card-challenge.git
+- Live Site URL: [https://loving-jepsen-35cebb.netlify.app
 
 ## My process
 
